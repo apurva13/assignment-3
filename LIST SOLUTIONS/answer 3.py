@@ -1,4 +1,4 @@
-#Count the number of time an object occurs in a list. 
+#Q3)Count the number of time an object occurs in a list. 
 LIST=[]
 n=int(input("enter total no. of value:"))
 for x in range(n):

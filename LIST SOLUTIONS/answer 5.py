@@ -20,5 +20,5 @@ print("SORTED LIST B:",B)
 A.extend(B)
 A.sort()
 C=A
-print(C)
+print('MERGED SORTED LIST :',C)
 
